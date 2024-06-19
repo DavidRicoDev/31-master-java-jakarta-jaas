@@ -1,0 +1,14 @@
+es\davidrico\jakarta\jaas\controladores\LenguajeController.class
+es\davidrico\jakarta\jaas\entities\Producto.class
+es\davidrico\jakarta\jaas\servicios\ProductoService.class
+es\davidrico\jakarta\jaas\ProducerEntityManager.class
+es\davidrico\jakarta\jaas\repositorios\CategoriaRepositoryImpl.class
+es\davidrico\jakarta\jaas\repositorios\ProductoRepository.class
+es\davidrico\jakarta\jaas\repositorios\ProductoRepositoryImpl.class
+es\davidrico\jakarta\jaas\controladores\LogoutController.class
+es\davidrico\jakarta\jaas\servicios\ProductoServiceImpl.class
+es\davidrico\jakarta\jaas\controladores\ProductoController.class
+es\davidrico\jakarta\jaas\conversores\CategoriaConverter.class
+es\davidrico\jakarta\jaas\ProducerResources.class
+es\davidrico\jakarta\jaas\repositorios\CrudRepository.class
+es\davidrico\jakarta\jaas\entities\Categoria.class
